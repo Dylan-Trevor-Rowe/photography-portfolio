@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "photography-portfolio",
   "version": "1.0.0",
   "description": "This project is an adventure into the world of Marvel Characters. Depending on which button you click, it will \r  print cards from a different marvel group. It utilizes different advanced array methods to help filter the characters by Team, as well as changes the color of the image border to either pink if female or blue if male. If the characters did not have a decription dummy data was filterd in.\r  # technologies\r  Bootstrap, Javascript ES6, html, and Scss \r ![image](https://github.com/Dylan-Trevor-Rowe/Marvel-Characters2/blob/master/src/images/marvel%20Readme.png)\r # How to run\r clone down this repo\r make sure you have http-server installed via npm. if not get it here.\r on you command line run hs -p 9999\r in your browser go to http://localhost:8080",
   "main": "src/javascripts/main.js",
