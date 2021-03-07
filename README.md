@@ -1,7 +1,7 @@
 # photography-portfolio
 
 
-This project is an adventure into printing images from an array, and using the select and option html elements to filter the photos by location, color, occassion, and direction.  The technologies used include, JavascriptES6, Jquery, html, scss, Bootstrap, and Webpack.
+This project is an adventure into printing images from an array, and using the select and option html elements to filter the photos by location, color, occassion, and direction.  The technologies used include, JavascriptES6, Jquery, HTML, SCSS, Bootstrap, and Webpack.
 ![image](https://github.com/Dylan-Trevor-Rowe/photography-portfolio/blob/master/src/images/photo%20journal.png)
 # How to run
 clone down this repo
